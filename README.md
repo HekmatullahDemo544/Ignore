@@ -2,7 +2,7 @@
 
 1
 ----
-![1](https://github.com/HekmatullahDemo544/Ignore/assets/144596458/350ee223-e6a2-4c32-b4c2-3275646dd756)
+<img src="https://github.com/HekmatullahDemo544/Ignore/assets/144596458/350ee223-e6a2-4c32-b4c2-3275646dd756" width="200" height="300">
 
 2
 ----
